@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+title: "The Second Moment of omega under Twin-Centre Conditioning on the 6N Skeleton (Part XXVI)"
+authors:
+  - family-names: Chen
+    given-names: Ruqing
+    affiliation: "GUT Geoservice Inc., Montreal, Quebec, Canada"
+    email: ruqing@hotmail.com
+version: "1.0.0"
+date-released: "2026-06-07"
+license: MIT
+url: "https://github.com/Ruqing1963/6N-omega-variance"
+keywords:
+  - Erdos-Kac theorem
+  - omega function
+  - twin primes
+  - second moment
+  - prime number theorem in arithmetic progressions
+  - admissibility
+  - experimental mathematics
+  - number theory
+references:
+  - type: article
+    title: "The Gaussian law of errors in the theory of additive number theoretic functions"
+    authors:
+      - {family-names: "Erdos", given-names: "Paul"}
+      - {family-names: "Kac", given-names: "Mark"}
+    journal: "American Journal of Mathematics"
+    volume: 62
+    year: 1940
+  - type: software
+    title: "Phase Transition Kinetics and Topological Event Horizons at Extreme omega (Part XXIII)"
+    authors: [{family-names: Chen, given-names: Ruqing}]
+    doi: 10.5281/zenodo.20586919
